@@ -1,0 +1,1 @@
+This repository contains resources practiced for Low Level Design (LLD) / Object Oriented Design (OOD).
