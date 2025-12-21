@@ -1,4 +1,4 @@
-package main;
+package app;
 
 import entities.ParkingFloor;
 import entities.ParkingSpot;

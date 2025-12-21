@@ -1,7 +1,7 @@
 import entities.ParkingFloor;
 import entities.ParkingSpot;
 import entities.ParkingTicket;
-import main.ParkingLot;
+import app.ParkingLot;
 import strategy.fee.impl.VehicleBasedFeeStrategy;
 import vehicle.*;
 import vehicle.impl.Bike;
